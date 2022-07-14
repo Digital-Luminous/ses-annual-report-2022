@@ -1,0 +1,14 @@
+{
+  "section": "footer",
+  "content": {
+    "copyright": "SES Water, all rights reserved.",
+    "owner": {
+      "label": "seswater.co.uk",
+      "target": "http://www.seswater.co.uk"
+    },
+    "design": {
+      "label": "Design and build by Luminous",
+      "target": "http://www.luminous.co.uk"
+    }
+  }
+}

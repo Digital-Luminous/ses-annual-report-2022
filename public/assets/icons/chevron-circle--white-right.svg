@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Chevron white</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Link-icon-hover" transform="translate(-8.000000, -8.000000)" stroke="#ffffff" stroke-width="2">
+            <g id="Group-34" transform="translate(8.000000, 8.000000)">
+                <ellipse id="Oval" cx="11.9924812" cy="12" rx="10.9924812" ry="11"></ellipse>
+                <g id="Group-33" transform="translate(10.000000, 7.636364)" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <polyline id="Line-5-Copy"
+                        transform="translate(2.000000, 4.363636) rotate(-270.000000) translate(-2.000000, -4.363636) "
+                        points="6.36363636 6.36363636 2.15861062 2.36363636 -2.36363636 6.30394858"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

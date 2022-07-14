@@ -1,0 +1,104 @@
+/* GSAP animations don't play well with styled-components because of the 
+inability to easily access its ref / DOM node. 
+See https://github.com/styled-components/styled-components/issues/1151
+We are therefore using plain HTML elements where animation is needed, 
+and adding SCSS styles here instead. 
+*/
+$mobile: "480px";
+$tablet: "768px";
+$tabletLandscape: "1024px";
+$desktop: "1200px";
+$desktopLarge: "1440px";
+
+$navHeightMobile: 170px;
+$navHeightTablet: 140px;
+
+.hero {
+  &__background {
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: fixed;
+    width: 100%;
+    max-width: 100vw;
+    z-index: 0;
+    height: 70vh;
+    top: $navHeightMobile;
+
+    @media (min-width: $tablet) {
+      height: 90vh;
+      background-position: 100% 50%;
+      top: $navHeightTablet;
+    }
+
+    @media (min-width: $tabletLandscape) {
+      top: auto;
+    }
+  }
+
+  &__heading {
+    font-family: "GothamMedium", Arial, sans-serif;
+    font-size: 3.25rem;
+    padding-top: 60px;
+
+    @media (min-width: $mobile) {
+      font-size: 3.75rem;
+      padding-top: 90px;
+    }
+
+    @media (min-width: $tablet) {
+      font-size: 4.375rem;
+      padding-top: 50px;
+    }
+
+    @media (min-width: $tabletLandscape) {
+      font-size: 6rem;
+    }
+
+    @media (min-width: $desktop) {
+      font-size: 6.875rem;
+    }
+  }
+
+  &__report-title {
+    display: none;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+
+    @media (min-width: $tablet) {
+      display: block;
+      font-size: 1.875rem;
+      width: 80%;
+      padding-top: 20px;
+      margin-bottom: 50px;
+    }
+
+    @media (min-width: $desktop) {
+      width: 50%;
+    }
+
+    @media (min-width: $desktopLarge) {
+      width: 40%;
+    }
+  }
+}
+
+.pledge__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+// .fix {
+//   position: fixed;
+//   width: 100%;
+//   z-index: 1;
+// }
+
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}

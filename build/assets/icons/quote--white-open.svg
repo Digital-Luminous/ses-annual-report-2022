@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="25px" viewBox="0 0 32 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <polygon id="path-1" points="0 0 32 0 32 25 0 25"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SES-Water-AR-Pledge-1" transform="translate(-983.000000, -1215.000000)">
+            <g id="Group-3" transform="translate(983.000000, 1215.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M17.2116875,25 L31.3165284,25 L31.3165284,10.6961806 L25.9736543,10.6961806 C25.9736543,7.52430556 27.9616198,5.65972222 32,5.16145833 L30.8811189,0 C22.8043584,0.373263889 17.2116875,3.73090278 17.2116875,13.6197917 L17.2116875,25 Z M0,25 L14.1048409,25 L14.1048409,10.6961806 L8.76023202,10.6961806 C8.76023202,7.52430556 10.7499322,5.65972222 14.7883125,5.16145833 L13.6694313,0 C5.59267089,0.373263889 0,3.73090278 0,13.6197917 L0,25 Z" id="Fill-1" fill="#FEFEFE" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

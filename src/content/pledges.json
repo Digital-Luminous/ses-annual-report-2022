@@ -1,0 +1,232 @@
+{
+  "water": {
+    "meta": {
+      "colour": {
+        "primary": "blueNavy",
+        "secondary": "teal",
+        "stamp": "orange"
+      }
+    },
+    "icon": {
+      "src": "../assets/water/icon.svg",
+      "alt": "Icon of a water drop"
+    },
+    "image": {
+      "src": "../assets/water/main.png",
+      "alt": "A SES Water lab worker testing water quality"
+    },
+    "title": "We'll provide you with high-quality <span>water all day, every day</span>",
+    "body": "<p>Nothing is more important to us than striving to keep our customers supplied with safe, clean water.</p>",
+    "highlights": [
+      "For 2021 we determined our water quality risk index score to be zero and expect this to be industry leading when the Drinking Water Inspectorate publishes its results in July 2022",
+      "We continue to have upper quartile industry performance for minimising the number of customers contacting us about the taste, smell or appearance of their water",
+      "We successfully prosecuted a company for illegally taking water from our pipe network, using an unauthorised standpipe and therefore risking water quality in the area"
+    ],
+    "metric": null,
+    "quotation": {
+      "quote": "The quality of water is superb and it is always there when I turn the tap on and again I have no complaints.",
+      "author": "A customer,",
+      "position": "posting on our online community",
+      "image": {
+        "src": "../assets/water/quote.png",
+        "alt": "Lorem ipsum"
+      }
+    },
+    "stamp": {
+      "fact": "Compliance risk index score",
+      "figure": "0",
+      "backgroundColour": "yellow",
+      "factColour": "blueDark"
+    }
+  },
+  "price": {
+    "meta": {
+      "colour": {
+        "primary": "red",
+        "secondary": "blueNavy",
+        "stamp": "blueSky"
+      }
+    },
+    "icon": {
+      "src": "../assets/price/icon.svg",
+      "alt": "Icon of a pound sterling"
+    },
+    "image": {
+      "src": "../assets/price/main.png",
+      "alt": "A smiling SES water colleague in an office"
+    },
+    "title": "We'll provide your service at a fair price and <span>offer help when you need it</span>",
+    "body": "<p>This year we have been able to support our customers to pay their bill and provided financial support options when they have needed it the most.</p>",
+    "highlights": [
+      "Our average household bill for 2021/22 equated to around 50 pence a day",
+      "We have continued to provide financial support to customers through  our 'Here For You' payment support schemes",
+      "We also visit 140 vulnerable customers a week, to ensure the members of our community who need it most benefit from our support. This includes contact over telephone and attending food banks",
+      "19,994 customers are benefitting from our Water Support Scheme, which provides a 50% bill reduction to eligible people. This means we are already surpassing the target we set ourselves for year three     of this five-year business plan period",
+      "5.6% of our customers are on our Priority Services Register, which provides extra support to those who have health, access or communication needs",
+      "Over 90% of our customers think the extra services we offer are helpful"
+    ],
+    "metric": {
+      "heading": "Customers on our Priority Services Register",
+      "unit": "Number",
+      "figures": {
+        "2021": "18,150*",
+        "2022": "19,994"
+      },
+      "caveat": "* Restated from prior year disclosed number of 20,274 following a data correction"
+    },
+    "quotation": {
+      "quote": "They've been flexible with payments during the pandemic and haven't put pressure on us, like some other companies have. They've come across as pleasant and supportive.",
+      "author": "A customer,",
+      "position": "posting on our online community",
+      "image": {
+        "src": "../assets/price/quote.png",
+        "alt": "Lorem ipsum"
+      }
+    },
+    "stamp": {
+      "fact": "Number of customers benefitting from our Water Support scheme",
+      "figure": "19,994",
+      "backgroundColour": "yellow",
+      "factColour": "blueDark"
+    }
+  },
+  "future": {
+    "meta": {
+      "colour": {
+        "primary": "teal",
+        "secondary": "blueNavy",
+        "stamp": "blueNavy"
+      }
+    },
+    "icon": {
+      "src": "../assets/future/icon.svg",
+      "alt": "An icon with a tick mark"
+    },
+    "image": {
+      "src": "../assets/future/main.png",
+      "alt": "SES Water branded vehicles parked outside a building"
+    },
+    "title": "We'll provide you with a service that is <span>fit now and for the future</span>",
+    "body": "We target our investment in our infrastructure every year where it is needed most and are using innovative technology to provide a better service to our customers.",
+    "highlights": [
+      "We have stayed at or below the maximum allowed level of leakage every year since the target was first set more than 20 years ago and have once again met our leakage reduction target, which is industry leading",
+      "We have invested in innovative technology to become the first water company with a totally 'smart' network to detect and fix leaks quicker",
+      "We have been shortlisted for two awards at this year's Water Industry Awards in June - the Asset Management Initiative of the year and the Smart Water Networks award",
+      "We have laid 8.6 kilometres of new main pipe in the past year and progressed a number of key mains replacement schemes across our  supply area. As a result we are on track to meet our target for the number of mains repairs in the remaining years of this AMP",
+      "Key mains replacement schemes completed this year include: West Park Road in Copthorne, Brockham Lane in Brockham, Church Lane in Headley and The Bridle Road in Purley"
+    ],
+    "metric": {
+      "heading": "Leakage reduction",
+      "unit": "MI/day",
+      "figures": {
+        "2021": "25.0",
+        "2022": "21.1"
+      }
+    },
+    "quotation": {
+      "quote": "If there's work being done to the network we always get plenty of warning and they stay in touch. Everyone I've dealt with at SES has been helpful and approachable.",
+      "author": "A customer,",
+      "position": "posting on our online community",
+      "image": {
+        "src": "../assets/future/quote.png",
+        "alt": "Lorem ipsum"
+      }
+    },
+    "stamp": {
+      "fact": "Percentage of network with smart technology",
+      "figure": "100%",
+      "backgroundColour": "red",
+      "factColour": "blueDark"
+    }
+  },
+  "environment": {
+    "meta": {
+      "colour": {
+        "primary": "green",
+        "secondary": "blueNavy",
+        "stamp": "yellow"
+      }
+    },
+    "icon": {
+      "src": "../assets/environment/icon.svg",
+      "alt": "icon of a leaf"
+    },
+    "image": {
+      "src": "../assets/environment/main.png",
+      "alt": "SES team on a sporting event"
+    },
+    "title": "We'll support a<span> thriving environment</span> we can all rely upon",
+    "body": "<p>We are committed to reducing the impact of our operations by achieving net zero carbon emissions by 2030 and continuing to implement more sustainable ways of pumping, treating and distributing millions of litres of water every single day.</p>",
+    "highlights": [
+      "We retained The Wildlife Trusts' Biodiversity Benchmark Award for the second year at our Elmer Treatment Works and also achieved the award at our second site - Fetcham Springs in Leatherhead. We are the only water company to currently hold the accreditation and expect one more site to follow by 2025",
+      "In June 2021 we published our routemap to achieving net zero operational carbon emissions by 2030",
+      "More than two thirds of our customers are already metered and we are looking to provide meters for 90% of our customers by March 2025",
+      "In the past year we have added to our fleet of electric vehicles, with each electric car helping to save 2-3 tonnes of CO2e per year, as well as reducing the impact on local air quality",
+      "We've been awarded the Waterwise 'Checkmark' for operating water efficiently at our head office in Redhill"
+    ],
+    "metric": {
+      "heading": "Consumption reduction",
+      "unit": "litres (per person per day)",
+      "figures": {
+        "2021": "163.4 litres",
+        "2022": "151.5 litres"
+      }
+    },
+    "quotation": {
+      "quote": "They are a brilliant company. My wife and I have been to the reservoir in Kent and I've seen the wonderful work done there and think it's a brilliant set-up.",
+      "author": "A customer,",
+      "position": "posting on our online community",
+      "image": {
+        "src": "../assets/environment/quote.png",
+        "alt": "field of corn"
+      }
+    },
+    "stamp": {
+      "fact": "Number of 'Biodiversity Benchmark' awards currently held",
+      "figure": "2",
+      "backgroundColour": "yellow",
+      "factColour": "blueDark"
+    }
+  },
+  "service": {
+    "meta": {
+      "colour": {
+        "primary": "purple",
+        "secondary": "teal",
+        "stamp": "blueDark"
+      }
+    },
+    "icon": {
+      "src": "../assets/service/icon.svg",
+      "alt": "Icon of a hand shake"
+    },
+    "image": {
+      "src": "../assets/service/main.png",
+      "alt": "A SES Water colleague at work"
+    },
+    "title": "We'll provide excellent service,<span> whenever and however you need it</span>",
+    "body": "<p>We want the most satisfied customers in the country and to get there we are fundamentally changing a lot of what we do and significantly investing in our people and the systems they use.</p>",
+    "highlights": [
+      "This year saw us launch a new billing system, being the first company in the UK to use it. This innovation is the biggest change we have made to this key area of our business in more than 20 years",
+      "We are soon to launch an online self service portal, which will make it easier for customers to manage their account and bills online",
+      "We continue to reduce the number of times customers have to contact us about the same issue, with 81% of contacts being resolved first time",
+      "We are working on a number of programmes that we know will improve our customer service, including: improved complaints handling, listening to and acting on customer feedback and reducing bill shock"
+    ],
+    "metric": null,
+    "quotation": {
+      "quote": "You ask a question and they do everything they can and go into detail with the information they provide. They are a decent company all round in my eyes.",
+      "author": "A customer,",
+      "position": "posting on our online community",
+      "image": {
+        "src": "../assets/service/quote.png",
+        "alt": "Lorem ipsum"
+      }
+    },
+    "stamp": {
+      "fact": "Number of customer contacts resolved first time",
+      "figure": "81%",
+      "backgroundColour": "red",
+      "factColour": "blueDark"
+    }
+  }
+}
