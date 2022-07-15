@@ -1,281 +1,288 @@
 {
-  "data": [
-    {
-      "section": "hero",
-      "content": {
-        "heading": "Delivering now <br> and for the future",
-        "title": "Annual Report and Financial Statements 2022",
-        "backgroundImage": {
-          "src": "/assets/hero.png",
-          "alt": "Lorem ipsum"
+    "data": [
+        {
+            "section": "hero",
+            "content": {
+                "heading": "Delivering now <br> and for the future",
+                "title": "Annual Report and Financial Statements 2022",
+                "backgroundImage": {
+                    "src": "/assets/hero.png",
+                    "alt": "Lorem ipsum"
+                }
+            }
+        },
+        {
+            "section": "overview",
+            "content": {
+                "heading": "What's in this report",
+                "items": [
+                    {
+                        "heading": "Who we are",
+                        "target": "#about",
+                        "image": {
+                            "src": "../assets/about.png",
+                            "alt": "Smiling woman pouring a glass of water"
+                        }
+                    },
+                    {
+                        "heading": "Chair's foreword",
+                        "target": "#foreword",
+                        "image": {
+                            "src": "../assets/chair--landscape.png",
+                            "alt": "Jeremy Pelczer, chairman"
+                        }
+                    },
+                    {
+                        "heading": "Q&A with Ian Cain, CEO",
+                        "target": "#q-and-a",
+                        "image": {
+                            "src": "../assets/ceo--landscape.png",
+                            "alt": "Iain Cain, CEO"
+                        }
+                    },
+                    {
+                        "heading": "Our pledges in action",
+                        "target": "#pledges",
+                        "image": {
+                            "src": "../assets/pledges.png",
+                            "alt": "Smiling women doing the washing up"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "section": "about",
+            "content": {
+                "heading": "About us",
+                "intro": [
+                    {
+                        "heading": "Who we are",
+                        "body": "We are a local water supplier providing an essential public service while playing an active role in the communities we are privileged to serve."
+                    },
+                    {
+                        "heading": "What we do",
+                        "body": "We supply around 160 million litres of clean water every day to more than 745,000 people in parts of Surrey, Kent, West Sussex and South London."
+                    }
+                ]
+            }
+        },
+        {
+            "section": "strategy",
+            "content": {
+                "heading": "Our business in numbers",
+                "numbers": [
+                    {
+                        "figure": "342",
+                        "label": "employees",
+                        "colour": "red"
+                    },
+                    {
+                        "figure": "66%",
+                        "label": "customers with a water meter",
+                        "colour": "teal"
+                    },
+                    {
+                        "figure": "745,000",
+                        "label": "people our water is supplied to",
+                        "colour": "blueSky"
+                    },
+                    {
+                        "figure": "19,994",
+                        "label": "customers on our Water Support scheme",
+                        "colour": "red"
+                    },
+                    {
+                        "figure": "85%",
+                        "label": "water coming from underground sources",
+                        "colour": "teal"
+                    },
+                    {
+                        "figure": "15%",
+                        "label": "water from our reservoir",
+                        "colour": "blueSky"
+                    },
+                    {
+                        "figure": "160m",
+                        "label": "litres of water supplied daily",
+                        "colour": "red"
+                    },
+                    {
+                        "figure": "100%",
+                        "label": "of our pipe network is 'smart'",
+                        "colour": "teal"
+                    },
+                    {
+                        "figure": "8",
+                        "label": "water treatment works",
+                        "colour": "blueSky"
+                    }
+                ]
+            }
+        },
+        {
+            "section": "foreword",
+            "content": {
+                "heading": "Chair's foreword",
+                "subheading": "In my final Chairman's Statement for SES Water I look back on the past year, and indeed the past decade, and I am greatly encouraged at what the Company has achieved during some very challenging periods.",
+                "quotation": {
+                    "quote": "I am delighted Dave's significant knowledge and experience of the Company and sector will continue to benefit the Board, our colleagues and customers. He will be an outstanding Chair.",
+                    "author": "Jeremy Pelczer",
+                    "position": "Outgoing Chair",
+                    "image": {
+                        "src": "../assets/chair.png",
+                        "alt": "Jeremy Pelczer, chairman"
+                    },
+                    "detailColour": "white"
+                },
+                "detail": {
+                    "title": null,
+                    "body": "<p>Getting to know the people in the Company over the years has been a real highlight for me. As a smaller company there has always been a local feel to it, especially given a lot of our colleagues also live in the area. That feeling really comes across when you see the care and passion everyone puts into their work.</p><p>Over the years the Company has always been both community focused and customer-centric. There is always more that we can, and must do, to continuously improve our service to our customers and I am confident this will remain a very high priority moving forward.</p>"
+                },
+                "cta": {
+                    "label": "Download Chair's foreword",
+                    "documentName": "Chair's foreword",
+                    "documentLocation": "../assets/PDFs/SESWater_AR22_Chairmans.pdf"
+                }
+            }
+        },
+        {
+            "section": "q-and-a",
+            "content": {
+                "heading": "Q&A with Iain Cain",
+                "subheading": "Ian reflects on the last 12 months and looks ahead to 2022/23.",
+                "quotation": {
+                    "quote": "We have successfully met record demand for water from our customers and outperformed our targets on reducing leaks on our network of pipes, which once again is industry leading.",
+                    "author": "Iain Cain",
+                    "position": "Chief Executive Officer",
+                    "image": {
+                        "src": "../assets/ceo.png",
+                        "alt": "Iain Cain, CEO"
+                    },
+                    "detailColour": "teal"
+                },
+                "detail": {
+                    "title": "Looking back over the past year, what have been the company's biggest challenges and achievements?",
+                    "body": "<p>I am very proud of what we, as a company, have delivered in the last 12 months, in the face of the unprecedented challenge of the COVID-19 pandemic. This year we have met 15 out of 25 of our performance commitments.</p><p>Throughout, we have focused on three core areas, namely:</p><p>1. Protecting and supporting our employees</p><p>2. Meeting the needs and wishes of our customers</p><p>3. Taking care of the communities we serve, including the environment.</p>"
+                },
+                "cta": {
+                    "label": "Download Chief Executive Officer's Statement",
+                    "documentName": "Chief Executive Officer's Statement",
+                    "documentLocation": "../assets/PDFs/SESWater_AR22_CEO.pdf"
+                }
+            }
+        },
+        {
+            "section": "pledges",
+            "content": {
+                "heading": "Our pledges in action",
+                "pledges": [
+                    {
+                        "category": "water",
+                        "colour": "teal",
+                        "overview": "We'll provide you with <span class='no-break'>high-quality</span> <span class='colour'>water all day, every day</span>",
+                        "icon": {
+                            "src": "../assets/water/icon.svg",
+                            "alt": "water icon"
+                        },
+                        "thumbnail": {
+                            "src": "../assets/water/thumbnail.png",
+                            "alt": "Smiling women doing the washing up"
+                        }
+                    },
+                    {
+                        "category": "price",
+                        "colour": "orange",
+                        "overview": "We'll provide your service at a fair price and <span class='colour'>offer help when you need it</span>",
+                        "icon": {
+                            "src": "../assets/price/icon.svg",
+                            "alt": "price icon"
+                        },
+                        "thumbnail": {
+                            "src": "../assets/price/thumbnail.png",
+                            "alt": "Young woman washing her face"
+                        }
+                    },
+                    {
+                        "category": "future",
+                        "colour": "teal",
+                        "overview": "We'll provide you with a service that is <span class='colour'>fit now and for the future</span>",
+                        "icon": {
+                            "src": "../assets/future/icon.svg",
+                            "alt": "future icon"
+                        },
+                        "thumbnail": {
+                            "src": "../assets/future/thumbnail.png",
+                            "alt": "Scientist taking sample from a river"
+                        }
+                    },
+                    {
+                        "category": "environment",
+                        "colour": "green",
+                        "overview": "We'll support a<span class='colour'> thriving environment</span> we can all rely upon",
+                        "icon": {
+                            "src": "../assets/environment/icon.svg",
+                            "alt": "environment icon"
+                        },
+                        "thumbnail": {
+                            "src": "../assets/environment/thumbnail.png",
+                            "alt": "Children playing in nature"
+                        }
+                    },
+                    {
+                        "category": "service",
+                        "colour": "purple",
+                        "overview": "We'll provide excellent service,<span class='colour'> whenever and however you need it</span>",
+                        "icon": {
+                            "src": "../assets/service/icon.svg",
+                            "alt": "service icon"
+                        },
+                        "thumbnail": {
+                            "src": "../assets/service/thumbnail.png",
+                            "alt": "Man teaching to a group"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "section": "downloads",
+            "content": {
+                "heading": "Downloads",
+                "documents": [
+                    {
+                        "title": "Full report",
+                        "format": "5.2mb",
+                        "thumbnail": "../assets/documents/full-report.png",
+                        "location": "../assets/PDFs/SESWater_AR22_Bookmarked.pdf"
+                    },
+                    {
+                        "title": "Strategic report",
+                        "format": "4.1mb",
+                        "thumbnail": "../assets/documents/strategic-report.png",
+                        "location": "../assets/PDFs/SESWater_AR22_Strategic.pdf"
+                    },
+                    {
+                        "title": "Governance",
+                        "format": "738kb",
+                        "thumbnail": "../assets/documents/governance.png",
+                        "location": "../assets/PDFs/SESWater_AR22_Governance.pdf"
+                    },
+                    {
+                        "title": "Financial statements",
+                        "format": "408kb",
+                        "thumbnail": "../assets/documents/financials.png",
+                        "location": "../assets/PDFs/SESWater_AR22_Financials.pdf"
+                    },
+                    {
+                        "title": "Financial statements",
+                        "format": "408kb",
+                        "thumbnail": "../assets/documents/financials.png",
+                        "location": "../assets/PDFs/SESWater_AR22_Financials.pdf"
+                    }
+                ]
+            }
         }
-      }
-    },
-    {
-      "section": "overview",
-      "content": {
-        "heading": "What's in this report",
-        "items": [
-          {
-            "heading": "Who we are",
-            "target": "#about",
-            "image": {
-              "src": "../assets/about.png",
-              "alt": "Smiling woman pouring a glass of water"
-            }
-          },
-          {
-            "heading": "Chair's foreword",
-            "target": "#foreword",
-            "image": {
-              "src": "../assets/chair--landscape.png",
-              "alt": "Jeremy Pelczer, chairman"
-            }
-          },
-          {
-            "heading": "Q&A with Ian Cain, CEO",
-            "target": "#q-and-a",
-            "image": {
-              "src": "../assets/ceo--landscape.png",
-              "alt": "Iain Cain, CEO"
-            }
-          },
-          {
-            "heading": "Our pledges in action",
-            "target": "#pledges",
-            "image": {
-              "src": "../assets/pledges.png",
-              "alt": "Smiling women doing the washing up"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "section": "about",
-      "content": {
-        "heading": "About us",
-        "intro": [
-          {
-            "heading": "Who we are",
-            "body": "We are a local water supplier providing an essential public service while playing an active role in the communities we are privileged to serve."
-          },
-          {
-            "heading": "What we do",
-            "body": "We supply around 160 million litres of clean water every day to more than 745,000 people in parts of Surrey, Kent, West Sussex and South London."
-          }
-        ]
-      }
-    },
-    {
-      "section": "strategy",
-      "content": {
-        "heading": "Our business in numbers",
-        "numbers": [
-          {
-            "figure": "342",
-            "label": "employees",
-            "colour": "red"
-          },
-          {
-            "figure": "66%",
-            "label": "customers with a water meter",
-            "colour": "teal"
-          },
-          {
-            "figure": "745,000",
-            "label": "people our water is supplied to",
-            "colour": "blueSky"
-          },
-          {
-            "figure": "19,994",
-            "label": "customers on our Water Support scheme",
-            "colour": "red"
-          },
-          {
-            "figure": "85%",
-            "label": "water coming from underground sources",
-            "colour": "teal"
-          },
-          {
-            "figure": "15%",
-            "label": "water from our reservoir",
-            "colour": "blueSky"
-          },
-          {
-            "figure": "160m",
-            "label": "litres of water supplied daily",
-            "colour": "red"
-          },
-          {
-            "figure": "100%",
-            "label": "of our pipe network is 'smart'",
-            "colour": "teal"
-          },
-          {
-            "figure": "8",
-            "label": "water treatment works",
-            "colour": "blueSky"
-          }
-        ]
-      }
-    },
-    {
-      "section": "foreword",
-      "content": {
-        "heading": "Chair's foreword",
-        "subheading": "In my final Chairman's Statement for SES Water I look back on the past year, and indeed the past decade, and I am greatly encouraged at what the Company has achieved during some very challenging periods.",
-        "quotation": {
-          "quote": "I am delighted Dave's significant knowledge and experience of the Company and sector will continue to benefit the Board, our colleagues and customers. He will be an outstanding Chair.",
-          "author": "Jeremy Pelczer",
-          "position": "Outgoing Chair",
-          "image": {
-            "src": "../assets/chair.png",
-            "alt": "Jeremy Pelczer, chairman"
-          },
-          "detailColour": "white"
-        },
-        "detail": {
-          "title": null,
-          "body": "<p>Getting to know the people in the Company over the years has been a real highlight for me. As a smaller company there has always been a local feel to it, especially given a lot of our colleagues also live in the area. That feeling really comes across when you see the care and passion everyone puts into their work.</p><p>Over the years the Company has always been both community focused and customer-centric. There is always more that we can, and must do, to continuously improve our service to our customers and I am confident this will remain a very high priority moving forward.</p>"
-        },
-        "cta": {
-          "label": "Download Chair's foreword",
-          "documentName": "Chair's foreword",
-          "documentLocation": "../assets/PDFs/SESWater_AR22_Chairmans.pdf"
-        }
-      }
-    },
-    {
-      "section": "q-and-a",
-      "content": {
-        "heading": "Q&A with Iain Cain",
-        "subheading": "Ian reflects on the last 12 months and looks ahead to 2022/23.",
-        "quotation": {
-          "quote": "We have successfully met record demand for water from our customers and outperformed our targets on reducing leaks on our network of pipes, which once again is industry leading.",
-          "author": "Iain Cain",
-          "position": "Chief Executive Officer",
-          "image": {
-            "src": "../assets/ceo.png",
-            "alt": "Iain Cain, CEO"
-          },
-          "detailColour": "teal"
-        },
-        "detail": {
-          "title": "Looking back over the past year, what have been the company's biggest challenges and achievements?",
-          "body": "<p>I am very proud of what we, as a company, have delivered in the last 12 months, in the face of the unprecedented challenge of the COVID-19 pandemic. This year we have met 15 out of 25 of our performance commitments.</p><p>Throughout, we have focused on three core areas, namely:</p><p>1. Protecting and supporting our employees</p><p>2. Meeting the needs and wishes of our customers</p><p>3. Taking care of the communities we serve, including the environment.</p>"
-        },
-        "cta": {
-          "label": "Download Chief Executive Officer's Statement",
-          "documentName": "Chief Executive Officer's Statement",
-          "documentLocation": "../assets/PDFs/SESWater_AR22_CEO.pdf"
-        }
-      }
-    },
-    {
-      "section": "pledges",
-      "content": {
-        "heading": "Our pledges in action",
-        "pledges": [
-          {
-            "category": "water",
-            "colour": "teal",
-            "overview": "We'll provide you with <span class='no-break'>high-quality</span> <span class='colour'>water all day, every day</span>",
-            "icon": {
-              "src": "../assets/water/icon.svg",
-              "alt": "water icon"
-            },
-            "thumbnail": {
-              "src": "../assets/water/thumbnail.png",
-              "alt": "Smiling women doing the washing up"
-            }
-          },
-          {
-            "category": "price",
-            "colour": "orange",
-            "overview": "We'll provide your service at a fair price and <span class='colour'>offer help when you need it</span>",
-            "icon": {
-              "src": "../assets/price/icon.svg",
-              "alt": "price icon"
-            },
-            "thumbnail": {
-              "src": "../assets/price/thumbnail.png",
-              "alt": "Young woman washing her face"
-            }
-          },
-          {
-            "category": "future",
-            "colour": "teal",
-            "overview": "We'll provide you with a service that is <span class='colour'>fit now and for the future</span>",
-            "icon": {
-              "src": "../assets/future/icon.svg",
-              "alt": "future icon"
-            },
-            "thumbnail": {
-              "src": "../assets/future/thumbnail.png",
-              "alt": "Scientist taking sample from a river"
-            }
-          },
-          {
-            "category": "environment",
-            "colour": "green",
-            "overview": "We'll support a<span class='colour'> thriving environment</span> we can all rely upon",
-            "icon": {
-              "src": "../assets/environment/icon.svg",
-              "alt": "environment icon"
-            },
-            "thumbnail": {
-              "src": "../assets/environment/thumbnail.png",
-              "alt": "Children playing in nature"
-            }
-          },
-          {
-            "category": "service",
-            "colour": "purple",
-            "overview": "We'll provide excellent service,<span class='colour'> whenever and however you need it</span>",
-            "icon": {
-              "src": "../assets/service/icon.svg",
-              "alt": "service icon"
-            },
-            "thumbnail": {
-              "src": "../assets/service/thumbnail.png",
-              "alt": "Man teaching to a group"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "section": "downloads",
-      "content": {
-        "heading": "Downloads",
-        "documents": [
-          {
-            "title": "Full report",
-            "format": "5.2mb",
-            "thumbnail": "../assets/documents/full-report.png",
-            "location": "../assets/PDFs/SESWater_AR22_Bookmarked.pdf"
-          },
-          {
-            "title": "Strategic report",
-            "format": "4.1mb",
-            "thumbnail": "../assets/documents/strategic-report.png",
-            "location": "../assets/PDFs/SESWater_AR22_Strategic.pdf"
-          },
-          {
-            "title": "Governance",
-            "format": "738kb",
-            "thumbnail": "../assets/documents/governance.png",
-            "location": "../assets/PDFs/SESWater_AR22_Governance.pdf"
-          },
-          {
-            "title": "Financial statements",
-            "format": "408kb",
-            "thumbnail": "../assets/documents/financials.png",
-            "location": "../assets/PDFs/SESWater_AR22_Financials.pdf"
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }
+
